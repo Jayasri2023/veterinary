@@ -1,0 +1,415 @@
+body{
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+}
+#navbar
+{
+    background-color: #daac00;
+    height: 122px;
+    
+}
+.logo
+{
+    width:214px;
+    height: 54px;
+    margin-left: 140px;
+}
+#home
+{
+    color: white;
+    font-family: "Poppins";
+    padding-left: 76px;
+font-size: 29.17px;
+}
+#nav-list
+{
+    color: white;
+    font-family: "Poppins";
+    padding-left: 43px;
+font-size: 29.17px;
+}
+#search
+{
+     padding-right: 100px;
+}
+#search-box
+{
+    background-color: #fcc302;
+    
+}
+#search-button
+{
+    background-color: #00bec9;
+    transform: translate(-30px);
+   
+}
+#banner
+{
+    height: 779px;
+    background-color: #fcc302;
+}
+#banner-content
+{
+    padding-left: 150px;
+}
+.banner-title
+{
+    padding-top: 192px;
+    font-family: "Poppins";
+    color:white;
+    font-size: 66.67px;
+font-weight: bold;
+
+}
+.banner-p
+{
+    font-size: 29.17px;
+color: white;
+text-align: justify;
+width: 80%;
+padding-top: 55px;
+}
+.banner-button
+{
+    display: flex;
+margin-top: 55px;
+}
+.banner-image
+{
+    height: 570px;
+    width: 386px;
+    margin-top: 107px;
+    margin-left: 100px;
+
+}
+#first-banner-button
+{
+    padding:  20px 40px;
+font-weight:bold;
+}
+#second-banner-button
+{
+    padding:  20px 40px;
+margin-left: 50px;
+font-weight: bold;
+} 
+.about-h1
+{
+    font-size: 40px;
+    font-family: "Poppins";
+    padding-top: 220px;
+padding-left: 140px;
+font-weight: bold;
+}
+.about-p
+{
+    font-size: 25px;
+    font-family: "Poppins";
+    text-align: justify;
+    width:85%;
+    padding-left: 140px;
+    padding-top: 50px;
+}
+.about-button
+{
+    padding: 20px 30px;
+    background-color: #fcc302;
+    color: white;
+    border: none;
+    margin-top: 50px;
+    margin-left: 140px;    
+}
+.about-img
+{
+    margin-top: 140px;
+    margin-left: 50px;
+}
+#about-box
+{
+    background-image: url(yellow-box.png);
+    background-position-y: 460px;
+    background-repeat: no-repeat;
+    height: 700px;
+}
+#title{
+    
+background-color: #fcc302;
+margin-top: 140px;
+}
+.title-h1
+{
+    padding-top: 100px;
+    color: white;
+    font-family: "Poppins";
+    font-weight: bold;
+    font-size: 75px;
+    text-align: center;
+}
+.title-p
+{
+    padding-top: 50px;
+    color: white;
+    font-family: "Poppins";
+font-size:33px;
+text-align:center;
+}
+#title-box
+{
+    margin-top: 100px;
+ text-align: center;   
+}
+.title-box-h1
+{
+    color:white;
+    font-family: "Poppins";
+    font-size: 37.5px;
+    padding-top: 50px;
+}
+.title-box-p
+{
+    color:white;
+    font-family: "Poppins";
+    font-size: 25px;
+width:90%;
+padding-left: 50px;
+}
+#second-about-box
+{
+    background-image: url(yellow-box.png);
+    background-position-y: 460px;
+    background-repeat: no-repeat;
+    background-position-x: 460px;    
+}
+.second-image
+{
+    margin-top: 140px;
+    margin-left: 140px;
+    
+}
+.second-about-h1
+{
+padding-top: 225px;
+text-align: right;
+font-size: 50px;
+font-weight: bold;
+font-family: "Poppins";
+padding-right: 144px;
+}
+.second-about-p
+{
+    padding-top: 50px;
+    text-align: right;
+    font-size: 29px;
+    font-family: "Poppins";
+    width: 80%;
+}
+.second-about-button
+{
+ padding: 20px 30px;
+ background-color: #fcc302;
+ color:white;
+ font-family: "Poppins";
+ border: none;
+ float: right;
+ margin-right: 144px;
+ margin-top: 50px;   
+}
+#first-cart
+{
+    height: 1013px;
+    background-color: #fcc302;
+margin-top: 145px;
+}
+.first-cart-title
+{
+    padding-top: 100px;
+    color: white;
+    font-family: "Poppins";
+    font-weight: bold;
+    font-size: 75px;
+    text-align: center;   
+}
+.first-cart-p
+{
+    padding-top: 50px;
+    color: white;
+    font-family: "Poppins";
+font-size:33px;
+width: 80%;
+text-align: center ;
+padding-left: 300px;
+}
+#dog-price
+{
+    margin-top: 100px;
+    text-align: center;
+}
+.dog-price-p
+{
+    padding-top: 50px;
+    font-family: "Poppins";
+    font-size: 41.67px;
+    color: white;
+    font-weight: bold;
+}
+.buy
+{
+    background-color: #00bec9;
+    padding: 10px 25px;
+    border: none;
+    color: white;
+    font-family: "Poppins";
+    font-weight: bold;
+    font-size: 25px;
+    border-radius: 30%;
+}
+.vetcare-h1
+{
+    text-align: center;
+    font-family: "Poppins";
+    font-size: 75px;
+font-weight: bold;
+padding-top: 150px;
+}
+.vetcare-p
+{
+    text-align: center;
+    font-family: "Poppins";
+    padding-top: 50px;
+    font-size: 33.33px;
+    width: 80%;
+    padding-left: 300px;
+}
+#vetcare-cart
+{
+    text-align: center;
+    margin-top: 100px;
+}
+.vet-h1{
+    font-family: "Poppins";
+    font-size: 29.17px;
+    font-weight: bold;
+    padding-top: 40px;
+}
+.vet-p
+{
+    font-family: "Poppins";
+    font-size: 25px;
+}
+#client-banner
+{
+    background: url(client-banner.png);
+    height: 570px;
+    margin-top: 140px;
+}
+#client-cart
+{
+    text-align: center;
+}
+.icon-banner
+{
+    margin-top: 160px;
+}
+.number
+{
+font-family: "Poppins";
+font-size: 41.67px;
+color:white;
+}
+.customer
+{
+    font-family: "Poppins";
+    font-size: 37.8px;
+    color: white;
+}
+.post-h1
+{
+    padding-top: 140px;
+    font-family: "Poppins";
+    font-size: 75px;
+    font-weight: bold;
+    text-align: center;
+}
+.post-p
+{
+    text-align: center;
+    font-family: "Poppins";
+    padding-top: 50px;
+    font-size: 33.33px;
+    width: 80%;
+    padding-left: 300px;   
+}
+#recent-post
+{
+    margin-left: 100px;
+    margin-top: 100px;
+}
+.card-h1
+{
+    font-family: "Poppins";
+    font-size: 25px;
+    font-weight: bold;
+}
+.card-date
+{
+    color: #00bec9;
+    font-size: 16.67px;
+    font-family: "Poppins";
+    font-weight: 500;
+}
+.card-p
+{
+    font-size: 16.67px;
+    font-family: "Poppins";
+    text-align: justify;
+}
+.card-read
+{
+    font-size: 20px;
+    font-family: "Poppins";
+    color: #00bec9;
+    font-weight: bold;
+}
+#footer
+{
+    margin-top: 140px;
+    background-color: #343434;
+color:white;
+height:660px;
+}
+#footer-row
+{
+    padding-top: 170px;
+    padding-left: 100px;
+
+}
+.about
+{
+    font-family: "Poppins";
+font-size: 37.5px;
+font-weight: bold;
+padding-bottom: 40px;
+}
+.History
+{
+    font-family: "Poppins";
+    font-size: 25px;
+}
+.footer-search
+{
+    background-color: #fcc302;
+    height: 90px;
+    width: 300px;
+}
+.footer-button
+{
+    background-color: #00bec9;
+    height: 90px;
+    transform: translate(-20px);
+    width: 100px;
+}
+.social-media
+{
+    margin-top: 20px;
+}

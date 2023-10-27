@@ -1,0 +1,477 @@
+@media (max-width: 575.98px) { 
+#navbar
+{
+    width: auto;
+}
+    .logo
+{
+margin: 0 0 0 0;
+    height: 40px;
+    width: 150px;
+}
+#banner
+{
+    height: auto;
+}
+#banner-content
+{
+    padding-left: 10px;
+    
+}
+.banner-title{
+    padding-top: 0px;
+font-size: 20px;
+padding-right: 0;
+margin: 0px;
+width: 80%;
+}
+.banner-p
+{
+    font-size: 15px;
+    padding-top: 20px;
+}
+#first-banner-button
+{
+    padding: 10px 20px;
+}
+#second-banner-button
+{
+    padding: 10px 20px;
+margin-left: 20px;
+}
+.banner-image
+{
+    height: 250px;
+    width: 130px;
+   margin: 20px 0 0 0;
+}
+.about-h1
+{
+ padding-left: 30px;
+ width: 76%;
+ margin: 0;
+ padding-top: 50px;
+ text-align: center;   
+font-size: 25px;
+}
+.about-p
+{
+    margin: 0;
+    padding-left: 30px;
+text-align: center;
+font-size: 15px;
+width:80%;
+padding-top: 20px;
+}
+.about-button
+{
+    margin-left: 100px;
+}
+.about-img
+{
+    height:270px;
+        margin-top: 50px;
+}
+#about-box
+{
+    background-position-y: 150px;
+}
+#title
+{
+    height: auto;
+    margin-top: 0px;
+}
+.title-h1
+{
+    font-size: 45px;
+    text-align: none;   
+}
+.title-p
+{
+ font-size: 15px;
+    width: 85%;
+    padding-top: 10px;
+    padding-left: 50px;
+}
+.title-image
+{
+    height: 200px;
+}
+.title-box-h1
+{
+    font-size: 25px;
+}
+.title-box-p
+{
+    font-size: 15px;
+}
+.second-image
+{
+    height: 290px;
+    margin-left: 30px;
+}
+#second-about-box
+{
+    background-position-x: 0px;
+    background-position-y: 100px;
+}
+.second-about-h1
+{
+    font-size: 30px;
+    text-align:center ;
+    padding-right: 0;
+}
+.second-about-p
+{
+    font-size: 20px;
+    text-align: center;
+}
+#first-cart
+{
+    height: auto;
+}
+.first-cart-title
+{
+    font-size: 50px;
+}
+.first-cart-p
+{
+    font-size: 20px;
+    padding-left: 50px;
+}
+#dog-price
+{
+    margin-top: 50px;
+}
+.dog-price-img
+{
+    height: 300px;
+    margin-top: 20px;
+}
+.vetcare-h1
+{
+    font-size: 40px;
+text-align: center;
+}
+.vetcare-p
+{
+    font-size: 20px;
+    padding-left: 50px;
+    text-align: center;
+}
+.vetcare-image
+{
+    height: 300px;
+    margin-top: 30px;
+}
+#client-banner
+{
+    height: auto;
+}
+#post
+{
+    height: auto;
+}
+.post-h1
+{
+    font-size: 40px;
+}
+.post-p
+{
+    font-size: 25px;
+    padding-left: 50px;
+}
+#recent-post
+{
+    margin-left: 0;
+}
+#footer
+{
+    height: auto;
+    
+}
+#footer-row
+{
+    padding-left: 0;
+}
+.footer-search
+{
+    width: 230px;
+}
+}
+@media (min-width: 576px) and (max-width: 767.98px) 
+{ 
+    .logo
+    {
+        margin-left: 0;
+    }
+    #banner
+    {
+        height: auto;
+    }
+    #banner-content
+    {
+        padding-left: 20px;
+        
+    }
+    .banner-title{
+        padding-top: 10px;
+    font-size: 35px;
+    /* width: 50%; */
+    }
+    .banner-p
+    {
+        font-size: 25px;
+        /* width: 50%; */
+        padding-top: 10px;
+    }
+    #first-banner-button
+    {
+        padding: 10px 20px;
+    }
+    #second-banner-button
+    {
+        padding: 10px 20px;
+    margin-left: 20px;
+    }
+    .banner-image
+    {
+        height: 400px;
+        width: 250px;
+       margin: 50px 0 0 0;
+    }
+    .second-image
+{
+    height: 400px;
+    
+}
+#second-about-box
+{
+    
+    background-position-y: 100px; 
+}
+.second-about-p
+{
+    text-align: center;
+padding-right: 40px;
+}
+
+    #first-cart
+    {
+        height: auto;
+    }
+
+.dog-price-img
+{
+    margin-top: 20px;
+}
+.vetcare-h1
+{
+    font-size: 50px;
+text-align: center;
+}
+.vetcare-p
+{
+    font-size: 22px;
+    padding-left: 80px;
+    text-align: center;
+}
+#vet-team
+{
+    height:auto;
+}
+.vetcare-image
+{
+ 
+    margin-top: 30px;
+}
+#client-banner
+{
+    height: auto;
+}
+.post-h1
+{
+    font-size: 50px;
+}
+.post-p
+{
+    font-size: 25px;
+    padding-left: 100px;
+}
+#recent-card
+{
+    margin-top: 30px;
+}
+#footer
+{
+    height: auto;
+    
+}
+}
+@media (min-width: 768px) and (max-width: 991.98px) 
+ 
+{ 
+    .logo
+    {
+        margin-left: 0;
+    }
+    #banner
+    {
+        height: auto;
+    }
+    #banner-content
+    {
+        padding-left: 20px;
+        
+    }
+    .banner-title{
+        padding-top: 10px;
+    font-size: 40px;
+    /* width: 50%; */
+    }
+    .banner-p
+    {
+        font-size: 30px;
+        /* width: 50%; */
+        padding-top: 10px;
+    }
+    #first-banner-button
+    {
+        padding: 10px 20px;
+    }
+    #second-banner-button
+    {
+        padding: 10px 20px;
+    margin-left: 20px;
+    }
+    .banner-image
+    {
+        height: 450px;
+        width: 300px;
+       margin: 50px 0 0 0;
+    }
+    #first-cart
+    {
+        height: auto;
+    }
+    .dog-price-img
+    {
+        margin-top: 30px;
+    }
+    .vetcare-image
+    {
+     
+        margin-top: 30px;
+    }
+    #client-banner
+{
+    height: auto;
+}
+#footer
+{
+    height: auto;
+    
+}
+#footer-row
+{
+    padding-left: 0;
+}
+.footer-search
+{
+    width: 210px;
+    height: 70px;
+}
+.footer-button
+{
+    height: 70px; 
+    width: 50px;  
+}
+}
+@media (min-width: 992px) and (max-width: 1199.98px) 
+{ 
+    .logo
+    {
+        margin-left: 0;
+    }
+    #home
+    {
+        font-size: 20px;
+    padding-left: 30px;
+    }
+    #nav-list
+{
+    font-size: 20px;
+}
+#search
+{
+    padding-right: 0px;
+}
+    #banner
+    {
+        height: auto;
+    }
+    #banner-content
+    {
+        padding-left: 20px;
+        
+    }
+    .banner-title
+    
+    {
+        padding-top: 10px;
+    font-size: 40px;
+    /* width: 50%; */
+    }
+    .banner-p
+    {
+        font-size: 30px;
+        /* width: 50%; */
+        padding-top: 10px;
+    } 
+    #first-banner-button
+    {
+        padding: 10px 20px;
+    }
+    #second-banner-button
+    {
+        padding: 10px 20px;
+    margin-left: 20px;
+    }
+    .banner-image
+    {
+        height: 500px;
+        width: 350px;
+       margin: 50px 0 0 0;
+    }
+#banner
+{
+    height: auto;
+}
+#first-cart
+{
+    height: auto;
+}
+.dog-price-img
+{
+    margin-top: 30px;
+}  
+.vetcare-image
+{
+ 
+    margin-top: 30px;
+}
+#client-banner
+{
+    height: auto;
+}
+.footer-search
+{
+    width: 210px;
+    height: 70px;
+}
+.footer-button
+{
+    height: 70px; 
+    width: 50px;  
+}
+}
